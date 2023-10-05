@@ -4,9 +4,9 @@ public class NonDivisibleSubset {
 
 	public static void main(String[] args) {
 
-		int[] arr = {19, 10, 12, 10, 24, 25, 22};
+		int[] arr = {1, 2, 3, 4, 5};
 		
-		int k = 4;
+		int k = 1;
 		int sizeOfSubArr = 0;
 		int[] subArr = new int[k];
 		
